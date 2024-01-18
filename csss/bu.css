@@ -1,0 +1,33 @@
+.butto {
+    background: #16c1f5;
+    border-radius: 3px;
+    color: #fff;
+    display: table;
+    font-size: 1.9rem;
+    padding: 0.55rem 0.65rem;
+    position: relative;
+    font-family: "roboto",bfont;
+    outline: 0 !important;
+    border: 0;
+    cursor: pointer;
+}
+
+.bac {
+    font-size: 1.1rem;
+}
+.bac {
+    color: #899ea9;
+    font-size: 2rem;
+    float: left;
+    position: relative;
+    padding-left: 8px;
+    top: 3px;
+}
+.res{
+justify-content: center;
+display: flex;
+    float: initial;
+}
+.butto:hover{
+background-color: black;
+}
